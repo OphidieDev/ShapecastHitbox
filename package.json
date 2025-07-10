@@ -1,0 +1,36 @@
+{
+  "name": "@rbxts/shapecasthitbox",
+  "version": "0.2.5",
+  "description": "A shapecast-centric solution to melee hitboxes. Successor to RaycastHitbox. (TS typings)",
+  "main": "src/init.luau",
+  "types": "src/typings/index.d.ts",
+  "scripts": {
+    "build": "rbxtsc",
+    "watch": "rbxtsc -w",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OphidieDev/ShapecastHitbox.git"
+  },
+  "author": "ophidie",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "bugs": {
+    "url": "https://github.com/OphidieDev/ShapecastHitbox/issues"
+  },
+  "homepage": "https://github.com/OphidieDev/ShapecastHitbox#readme",
+  "files": [
+    "src/**/*",
+    "!src/**/*.spec.{luau,ts}",
+    "default.project.json"
+  ],
+  "dependencies": {
+    "@rbxts/compiler-types": "^3.0.0-types.0",
+	"@rbxts/types": "^1.0.861",
+    "roblox-ts": "^3.0.0",
+    "typescript": "^5.8.3"
+  }
+}
