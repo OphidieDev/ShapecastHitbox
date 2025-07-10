@@ -1,9 +1,9 @@
-<div align="center">
-	> [!NOTE]
-	> This repo was created for the utilization of this package with roblox-ts, the only difference is the typescript typings.
+> [!NOTE]
+> This repo was created for the utilization of this package with roblox-ts, the only difference is the typescript typings.
 
-	<img href="https://www.npmjs.com/package/@rbxts/shapecasthitbox" alt="NPM Version" src="https://img.shields.io/npm/v/%40rbxts%2Fshapecasthitbox?logo=npm">
-</div>
+<p align="center">
+ <img href="https://www.npmjs.com/package/@rbxts/shapecasthitbox" alt="NPM Version" src="https://img.shields.io/npm/v/%40rbxts%2Fshapecasthitbox?logo=npm">
+</p>
 
 ---
 
