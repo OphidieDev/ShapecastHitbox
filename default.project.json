@@ -1,6 +1,6 @@
 {
   "name": "ShapecastHitbox",
   "tree": {
-    "$path": "src"
+    "$path": "out"
   }
 }
